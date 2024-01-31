@@ -3,4 +3,7 @@ sklearn
 fuzzywuzzy
 distance
 bs4
-
+Numpy
+Pandas
+seaborn
+matplotlib
